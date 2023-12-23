@@ -1,0 +1,16 @@
+PODS:
+  - CoreBootcamp (0.1.0)
+
+DEPENDENCIES:
+  - CoreBootcamp (from `../`)
+
+EXTERNAL SOURCES:
+  CoreBootcamp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CoreBootcamp: ff49c1b8e91a4ac7c56a8699b8fa7e85f97f523c
+
+PODFILE CHECKSUM: e3c966d0b8784b6c941b0c06740b2c0b968f383e
+
+COCOAPODS: 1.12.1
